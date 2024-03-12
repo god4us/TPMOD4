@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\RIFKYFRDS\\Documents\\MATA KULIAH SEMESTER 8\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\TPMOD4\\TPMOD4_1302204112\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8280509C-813B-4871-ABA4-B608B9E1005B}|TPMOD4_1302204112\\TPMOD4_1302204112.csproj|c:\\users\\rifkyfrds\\documents\\mata kuliah semester 8\\konstruksi perangkat lunak\\praktikum\\tpmod4\\tpmod4_1302204112\\tpmod4_1302204112\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8280509C-813B-4871-ABA4-B608B9E1005B}|TPMOD4_1302204112\\TPMOD4_1302204112.csproj|solutionrelative:tpmod4_1302204112\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8280509C-813B-4871-ABA4-B608B9E1005B}|TPMOD4_1302204112\\TPMOD4_1302204112.csproj|c:\\users\\rifkyfrds\\documents\\mata kuliah semester 8\\konstruksi perangkat lunak\\praktikum\\tpmod4\\tpmod4_1302204112\\tpmod4_1302204112\\program kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8280509C-813B-4871-ABA4-B608B9E1005B}|TPMOD4_1302204112\\TPMOD4_1302204112.csproj|solutionrelative:tpmod4_1302204112\\program kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8280509C-813B-4871-ABA4-B608B9E1005B}|TPMOD4_1302204112\\TPMOD4_1302204112.csproj|c:\\users\\rifkyfrds\\documents\\mata kuliah semester 8\\konstruksi perangkat lunak\\praktikum\\tpmod4\\tpmod4_1302204112\\tpmod4_1302204112\\program doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8280509C-813B-4871-ABA4-B608B9E1005B}|TPMOD4_1302204112\\TPMOD4_1302204112.csproj|solutionrelative:tpmod4_1302204112\\program doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\RIFKYFRDS\\Documents\\MATA KULIAH SEMESTER 8\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\TPMOD4\\TPMOD4_1302204112\\TPMOD4_1302204112\\Program DoorMachine.cs",
+              "RelativeDocumentMoniker": "TPMOD4_1302204112\\Program DoorMachine.cs",
+              "ToolTip": "C:\\Users\\RIFKYFRDS\\Documents\\MATA KULIAH SEMESTER 8\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\TPMOD4\\TPMOD4_1302204112\\TPMOD4_1302204112\\Program DoorMachine.cs",
+              "RelativeToolTip": "TPMOD4_1302204112\\Program DoorMachine.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:49:09.684Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,12 +40,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RIFKYFRDS\\Documents\\MATA KULIAH SEMESTER 8\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\TPMOD4\\TPMOD4_1302204112\\TPMOD4_1302204112\\Program.cs",
-              "RelativeDocumentMoniker": "TPMOD4_1302204112\\Program.cs",
-              "ToolTip": "C:\\Users\\RIFKYFRDS\\Documents\\MATA KULIAH SEMESTER 8\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\TPMOD4\\TPMOD4_1302204112\\TPMOD4_1302204112\\Program.cs",
-              "RelativeToolTip": "TPMOD4_1302204112\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwDsAAAABAAAA",
+              "Title": "Program KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\RIFKYFRDS\\Documents\\MATA KULIAH SEMESTER 8\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\TPMOD4\\TPMOD4_1302204112\\TPMOD4_1302204112\\Program KodePos.cs",
+              "RelativeDocumentMoniker": "TPMOD4_1302204112\\Program KodePos.cs",
+              "ToolTip": "C:\\Users\\RIFKYFRDS\\Documents\\MATA KULIAH SEMESTER 8\\KONSTRUKSI PERANGKAT LUNAK\\PRAKTIKUM\\TPMOD4\\TPMOD4_1302204112\\TPMOD4_1302204112\\Program KodePos.cs",
+              "RelativeToolTip": "TPMOD4_1302204112\\Program KodePos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwB0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T09:29:56.627Z",
               "EditorCaption": ""
